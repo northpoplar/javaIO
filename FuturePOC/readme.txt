@@ -1,0 +1,2 @@
+这个module里会涉及到javad的Thread,Excutors,Excoutor,ThreadPoolExcutor,Future等，特别是DougLea大神写的一些包
+另外对比的就是spring对这些的包装，比如ThreadPoolTaskExcutor等

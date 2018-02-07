@@ -1,0 +1,2 @@
+这个module主要是apache的HttpClient，AsyncHttpClient等
+以及spring的@Async、AsyncRestTemplate等
